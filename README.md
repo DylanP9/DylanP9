@@ -1,7 +1,4 @@
-
-# Welcome to My GitHub Profile!
-
-## 👋 Hi there! I'm [Your Name]
+## 👋 Hi there!
 
 I'm a Computer Science student at Heriot-Watt University, with a keen interest in technology. Expected to graduate in 2026, I'm currently exploring programming languages through personal projects and academic coursework.
 
