@@ -14,7 +14,7 @@ I'm a Computer Science student at Heriot-Watt University, with a keen interest i
 ### 🌐 Technical Skills
 
 - **Languages:** Html/Css, Javascript, OCaml, C++, C, Python, R, Java
-- **Interests:** Web and App development, 
+- **Interests:** Web and App development, Project Management
 
 ### 🚀 Projects
 
